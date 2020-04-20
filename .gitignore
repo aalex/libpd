@@ -4,6 +4,8 @@ libs/libpd.*
 libs/libpdcpp.*
 libs/libpdnative.*
 libs/pdnative.*
+libpd.a
+libpd.dylib
 
 # python
 python/pylibpd_wrap.c
@@ -52,3 +54,11 @@ java-build/*
 javadoc
 libs/libpd-sources*
 *.coverage
+On branch master
+Your branch is up to date with 'origin/master'.
+
+# CMake files
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+
